@@ -1,0 +1,3 @@
+Name: Vaibhav, Age: 22, Role: Data Scientist
+Name: Apurv, Age: 22, Role: Full Stack Dev
+Name: Raj, Age: 21, Role: Frontend Dev
